@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seerajakonnur
-- 👀 I’m interested in computational biology. machine learning and AI
-- 🌱 I’m currently finishing MSc in Applied statistical modelling and health informatics at King's college London. I have previously studied bioinformatics and microbiology.
+- 👀 I’m interested in computational biology, machine learning and AI
+- 🌱 I graduated with MSc in Applied statistical modelling and health informatics at King's college London. I have previously studied bioinformatics and microbiology.
 - 
 -
 
