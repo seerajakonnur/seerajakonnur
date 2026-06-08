@@ -16,7 +16,7 @@ Currently part of the One Health team at ARTPARK @ IISc, where I apply machine l
 
 ## Featured Projects
 
-🦠 **Influenza A Reassortment Prediction**  
+🦠 **Influenza A Virus Reassortment Prediction**  
 Predicting reassortment potential in Influenza A virus using Foundation Models, Genetic Algorithms, and Graph Attention Networks.
 
 🧬 **Machine Learning & Computational Biology Portfolio**  
