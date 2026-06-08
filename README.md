@@ -24,7 +24,7 @@ Collection of projects spanning cancer multi-omics, host–pathogen protein inte
 
 ## Publications
 📄 NeurIPS 2025 FM4LS Workshop  
-*Predicting Influenza Reassortment Potential Using Foundation Models and Genetic Algorithms for Pandemic Preparedness*
+*[Predicting Influenza Reassortment Potential Using Foundation Models and Genetic Algorithms for Pandemic Preparedness](https://openreview.net/forum?id=uGrHjgDbBF)*
 
 ## Connect
 
